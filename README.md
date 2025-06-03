@@ -45,4 +45,4 @@ python3 card_bot.py
 
 ## Автор
 
-Андрей Соколов ([@sokolov](https://t.me/@andrei_9734.)
+Андрей Соколов ([@sokolov](https://t.me/andrei_9734)
